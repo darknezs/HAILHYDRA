@@ -1,6 +1,6 @@
 # HAILHYDRA
-how to hydra </br>
-hydra -L username.txt -p aaa 192.168.x.x -V http-form-post "/PATH/login:username=^USER^&password=^PASS^:Invalid username" </br>
+# how to hydra  </br>
+$ hydra -L username.txt -p aaa 192.168.x.x -V http-form-post "/PATH/login:username=^USER^&password=^PASS^:Invalid username" </br>
 
 --username </br>
 -l ชื่อหนึ่งชื่อ </br>
