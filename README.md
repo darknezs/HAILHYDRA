@@ -10,7 +10,7 @@ $ hydra -L username.txt -p aaa 192.168.x.x -V http-form-post "/PATH/login:userna
 -p รหัสหนึ่งรหัส </br>
 -P wordlist </br>
 
--V โฃว์ รหัส พาส ระหว่างเดา </br>
+-V โชว์ รหัส พาส ระหว่างเดา </br>
 
 path:parameters:F </br>
 ในส่วนนี้ใช้ burb suit ดูได้ </br>
