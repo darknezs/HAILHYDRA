@@ -20,4 +20,4 @@ username, password มาจากเว็บ </br>
 
 ^USER^ --> username ที่ต้องการให้เดา </br>
 ^PASS^ --> password ที่ต้องการให้เดา
-https://drive.google.com/file/d/1qmMYM6bgSJICWs8gDsVX72YAR-gYLfFG/view?usp=sharing
+
